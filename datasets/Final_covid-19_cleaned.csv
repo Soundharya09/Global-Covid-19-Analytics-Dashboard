@@ -1,0 +1,105 @@
+Id,Country_Region,Confirmed,Deaths,Recovered,Continent,Population,Critical,Total_Tests,WHO_Region
+1,Belize,48,2,26,"North America",398312,2,3679,Americas
+2,Afghanistan,36263,1269,25198,Asia,39009447,31,90396,"Eastern Mediterranean"
+3,"Saudi Arabia",268934,2760,222936,Asia,34865919,1915,3635705,"Eastern Mediterranean"
+4,Senegal,9764,194,6477,Africa,16783877,33,114761,Africa
+5,Guatemala,45309,1761,32455,"North America",17946899,5,172712,Americas
+6,"El Salvador",15035,408,7778,"North America",6489514,509,251271,Americas
+7,Slovakia,2181,28,1616,Europe,5459915,2,272322,Europe
+8,Tanzania,509,21,183,Africa,59886383,7,0,Africa
+9,Guinea,7055,45,6257,Africa,13164905,24,14407,Africa
+10,Slovenia,2087,116,1733,Europe,2078968,2,135702,Europe
+11,Albania,4880,144,2745,Europe,2877470,23,38997,Europe
+12,Benin,1770,35,1036,Africa,12151976,1,93677,Africa
+13,Algeria,27973,1163,18837,Africa,43926079,57,0,Africa
+14,Thailand,3297,58,3111,Asia,69817894,1,749213,"South-East Asia"
+15,Andorra,907,52,803,Europe,77278,1,3750,Europe
+16,Togo,874,18,607,Africa,8296582,2,45767,Africa
+17,Eswatini,2316,34,1025,Africa,1161348,5,20784,Africa
+18,Tunisia,1455,50,1157,Africa,11830801,9,100298,"Eastern Mediterranean"
+19,Bolivia,71181,2647,21478,"South America",11688459,71,183583,Americas
+20,Ethiopia,14547,228,6386,Africa,115223736,185,468814,Africa
+21,France,220352,30212,81212,Europe,65288306,384,3992206,Europe
+22,Angola,950,41,242,Africa,32956300,20,64747,Africa
+23,"Antigua and Barbuda",86,3,65,"North America",98010,1,1500,Americas
+24,Guinea-Bissau,1954,26,803,Africa,1972277,5,1500,Africa
+25,Botswana,739,2,63,Africa,2356075,1,68423,Africa
+26,Argentina,167416,3059,72575,"South America",45236884,1150,794544,Americas
+27,Turkey,227019,5630,210469,Asia,84428331,580,5081802,Europe
+28,Gabon,7189,49,4682,Africa,2230563,11,85369,Africa
+29,Guyana,389,20,181,"South America",786936,2,5165,Americas
+30,Somalia,3196,93,1543,Africa,15933012,2,0,"Eastern Mediterranean"
+31,Australia,15303,167,9311,Australia/Oceania,25528864,52,4631419,"Western Pacific"
+32,Austria,20558,713,18246,Europe,9011577,25,937275,Europe
+33,Brazil,2442375,87618,1846641,"South America",212710692,8318,13206188,Americas
+34,US,4290259,148011,1325804,"North America",331198130,18296,63139605,Americas
+35,Honduras,39741,1166,5039,"North America",9919704,52,109292,Americas
+36,Azerbaijan,30446,423,23242,Asia,10148243,66,766179,Europe
+37,"South Africa",452529,7067,274925,Africa,59381566,539,3149807,Africa
+38,Ukraine,67096,1636,37202,Europe,43705858,158,1116641,Europe
+39,"South Korea",14203,300,13007,Asia,51273732,18,1613652,"Western Pacific"
+40,Bulgaria,10621,347,5585,Europe,6942854,47,294087,Europe
+41,Germany,207112,9125,190314,Europe,83811260,236,8586648,Europe
+42,Hungary,4448,596,3329,Europe,9657785,8,352546,Europe
+43,Ghana,33624,168,29801,Africa,31133483,7,405817,Africa
+44,"Sri Lanka",2805,11,2121,Asia,21422362,1,166737,"South-East Asia"
+45,Bahamas,382,11,91,"North America",393616,1,4814,Americas
+46,Cameroon,17110,391,14539,Africa,26606188,30,149000,Africa
+47,Bahrain,39482,141,36110,Asia,1706669,41,876700,"Eastern Mediterranean"
+48,Suriname,1483,24,925,"South America",587154,9,2785,Americas
+49,Switzerland,34477,1978,30900,Europe,8660952,23,822764,Europe
+50,"Central African Republic",4599,59,1546,Africa,4837752,2,29589,Africa
+51,Uruguay,1202,35,951,"South America",3474956,2,126956,Americas
+52,Belgium,66428,9822,17452,Europe,11594739,61,1767120,Europe
+53,Uzbekistan,21209,121,11674,Asia,33516027,228,1377915,Europe
+54,Greece,4227,202,1374,Europe,10417673,14,619393,Europe
+55,Chile,347923,9187,319954,"South America",19132514,1358,1760615,Americas
+56,Venezuela,15988,146,9959,"South America",28427499,42,1567431,Americas
+57,India,1480073,33408,951166,Asia,1381344997,8944,22149351,"South-East Asia"
+58,Iran,293606,15912,255144,Asia,84097623,4156,2612763,"Eastern Mediterranean"
+59,Colombia,257101,8777,131161,"South America",50936262,1493,1801835,Americas
+60,Iraq,112585,4458,77144,Asia,40306025,517,1092741,"Eastern Mediterranean"
+61,Ireland,25892,1764,23364,Europe,4943200,5,652917,Europe
+62,Israel,63985,474,27133,Asia,9197590,358,1872453,Europe
+63,"Costa Rica",15841,115,3824,"North America",5098730,103,96110,Americas
+64,Croatia,4881,139,3936,Europe,4102577,7,125317,Europe
+65,Italy,246286,35112,198593,Europe,60452568,42,7099713,Europe
+66,Cuba,2532,87,2351,"North America",11325899,4,285471,Americas
+67,Czechia,15516,373,11428,Europe,10711019,17,728670,Europe
+68,Denmark,13761,613,12605,Europe,5794279,2,1654512,Europe
+69,Japan,31142,998,21970,Asia,126435859,115,938739,"Western Pacific"
+70,Jordan,1176,11,1041,Asia,10213138,3,628745,"Eastern Mediterranean"
+71,"Dominican Republic",64156,1083,30204,"North America",10858648,317,281926,Americas
+72,Kazakhstan,84648,585,54404,Asia,18798667,221,2163713,Europe
+73,Kenya,17975,285,7833,Africa,53881160,44,335318,Africa
+74,Ecuador,81161,5532,34896,"South America",17668824,378,258582,Americas
+75,Kuwait,64379,438,55057,Asia,4276658,127,522200,"Eastern Mediterranean"
+76,Egypt,92482,4652,34838,Africa,102516525,41,135000,"Eastern Mediterranean"
+77,Kyrgyzstan,33296,1301,21205,Asia,6534479,24,267718,Europe
+78,Lebanon,3882,51,1709,Asia,6822220,46,345268,"Eastern Mediterranean"
+79,Lithuania,2019,80,1620,Europe,2718121,6,540784,Europe
+80,Luxembourg,6321,112,4825,Europe,626952,9,623994,Europe
+81,Madagascar,9690,91,6260,Africa,27755708,88,46301,Africa
+82,Malawi,3664,99,1645,Africa,19174839,4,33466,Africa
+83,Malaysia,8904,124,8601,Asia,32406372,2,991333,"Western Pacific"
+84,Maldives,3369,15,2547,Asia,541448,12,85587,"South-East Asia"
+85,Mauritania,6208,156,4653,Africa,4660728,3,57387,Africa
+86,Mexico,395489,44022,303810,"North America",129066160,3987,1056915,Americas
+87,Moldova,23154,748,16154,Europe,4032983,362,128076,Europe
+88,Monaco,116,4,104,Europe,39270,2,38209,Europe
+89,Morocco,20887,316,16553,Africa,36953359,31,1383816,"Eastern Mediterranean"
+90,Namibia,1843,8,101,Africa,2545264,24,29233,Africa
+91,Nigeria,41180,860,18203,Africa,206606300,7,306894,Africa
+92,"North Macedonia",10213,466,5564,Europe,2083365,3,109946,Europe
+93,Norway,9132,255,8752,Europe,5425471,3,472841,Europe
+94,Oman,77058,393,57028,Asia,5118446,177,309212,"Eastern Mediterranean"
+95,Pakistan,274289,5842,241026,Asia,221295851,809,2058872,"Eastern Mediterranean"
+96,Panama,61442,1322,35086,"North America",4321282,161,240995,Americas
+97,Paraguay,4548,43,2905,"South America",7141091,23,135277,Americas
+98,Peru,389717,18418,272547,"South America",33016319,1426,2493429,Americas
+99,Philippines,82040,1945,26446,Asia,109722719,239,1669996,"Western Pacific"
+100,Poland,43402,1676,32856,Europe,37842302,72,2374686,Europe
+101,Portugal,50299,1719,35375,Europe,10193593,42,1705474,Europe
+102,Qatar,109597,165,106328,Asia,2807805,77,511000,"Eastern Mediterranean"
+103,Romania,45902,2206,25794,Europe,19224023,458,1319369,Europe
+104,Russia,816680,13334,602249,Europe,145940924,2300,29716907,Europe
